@@ -1,7 +1,7 @@
-# AI_based_chess_coach\
-# Live Chess Board Detection using MSS
-
-This repository demonstrates live chess board detection from your screen using the **mss** library for screen capture. The current implementation locates a chess board displayed in a target Chrome window (e.g., on Chess.com), captures the screen in real time, and processes the live feed using OpenCV.
+# AI_based_chess_coach
+# Live Chess Board Detection.
+## Preview
+![Chess Board Detection](images/Ai-chess-board-detection.png)
 
 Future updates will include further modules such as chess piece detection, move evaluation with Stockfish, and natural language commentary generation with an LLM.
 
