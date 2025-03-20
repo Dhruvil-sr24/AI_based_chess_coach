@@ -1,7 +1,7 @@
 # AI_based_chess_coach
 # Live Chess Board Detection.
 ## Preview
-![Chess Board Detection](images/Ai-chess-board-detection.png)
+![Chess Board Detection](image/Ai-chess-board-detection.png)
 
 Future updates will include further modules such as chess piece detection, move evaluation with Stockfish, and natural language commentary generation with an LLM.
 
